@@ -3,11 +3,12 @@
   <groupId>com.github.moistmason</groupId>
   <artifactId>masons-library</artifactId>
   <versioning>
-    <latest>0.1.0-DEV-2</latest>
-    <release>0.1.0-DEV-2</release>
+    <latest>0.1.0-DEV-3</latest>
+    <release>0.1.0-DEV-3</release>
     <versions>
       <version>0.1.0-DEV-2</version>
+      <version>0.1.0-DEV-3</version>
     </versions>
-    <lastUpdated>20260312042700</lastUpdated>
+    <lastUpdated>20260312044536</lastUpdated>
   </versioning>
 </metadata>
