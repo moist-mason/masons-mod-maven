@@ -1,0 +1,100 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.moistmason",
+    "module": "masons-library",
+    "version": "0.1.0-DEV-7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.2.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "masons-library-0.1.0-DEV-7.jar",
+          "url": "masons-library-0.1.0-DEV-7.jar",
+          "size": 30694,
+          "sha512": "565f043c8a0b870c929bf5daeea247c7fed4ada25a59e313f2ddb736b7cad5fd50734b2f62dec8d9b6b0d52c5d0d9a8b484a2e59113dbc835a93b39a5a3a36c4",
+          "sha256": "8937eda489d9e65454472066b03632899cd90d0051761c1959e2eabbe17b7ebd",
+          "sha1": "ad36a14d8e11adc6d82601b4dc8245688c76df46",
+          "md5": "29f340eecf2f6625c8b85b313376caec"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "masons-library-0.1.0-DEV-7.jar",
+          "url": "masons-library-0.1.0-DEV-7.jar",
+          "size": 30694,
+          "sha512": "565f043c8a0b870c929bf5daeea247c7fed4ada25a59e313f2ddb736b7cad5fd50734b2f62dec8d9b6b0d52c5d0d9a8b484a2e59113dbc835a93b39a5a3a36c4",
+          "sha256": "8937eda489d9e65454472066b03632899cd90d0051761c1959e2eabbe17b7ebd",
+          "sha1": "ad36a14d8e11adc6d82601b4dc8245688c76df46",
+          "md5": "29f340eecf2f6625c8b85b313376caec"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "masons-library-0.1.0-DEV-7-sources.jar",
+          "url": "masons-library-0.1.0-DEV-7-sources.jar",
+          "size": 15967,
+          "sha512": "02e28df9f9dac667b928f094afb6e699d07d761b64c965316fe55f5f2ce9e909e2aa60ca9e3c03b8b5ec70c8f8b7090baaa1bc2f21f050114e7a7eafe47320a5",
+          "sha256": "f8faff8d7bc6c90976a316e00aa6065ea8b979b3ad7814b798d4abbbbdcb6eca",
+          "sha1": "0a9128be9cf8ab472f28a2276aa7b0dd53bbb47c",
+          "md5": "293f40c9d2647ae3dec31cc5169b2bc3"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "masons-library-0.1.0-DEV-7-javadoc.jar",
+          "url": "masons-library-0.1.0-DEV-7-javadoc.jar",
+          "size": 165459,
+          "sha512": "7a8822d64fd773fa3183befce79f9023386682f1fe1e6b8f8995c868f26318ae80e011e163b8bb0232a44bfc18c136153a233b1c956f879a1053a1f9d5706d9d",
+          "sha256": "9a9b7bad7293859d47f4d4d0ac0060be3d819d6b11aa645541db3e8fcf436442",
+          "sha1": "6de27a1d39585088233f991b7fd3e55bb2a3cb31",
+          "md5": "f6bdad76ce321ddff3f21596d99778cd"
+        }
+      ]
+    }
+  ]
+}
